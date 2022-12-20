@@ -1,8 +1,8 @@
 # CS50 - Final Project - ONLINE NOTES
 
 ## *Our team*
-[Pavlo Zinchenko](https://github.com/PaulSNDX)
-[Daria Katsai](https://github.com/DarunkaKa)
+- [Pavlo Zinchenko](https://github.com/PaulSNDX)
+- Daria Katsai
 
 ## *RUN PROJECT*
 1) Download the project;
