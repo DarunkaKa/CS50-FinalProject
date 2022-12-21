@@ -2,14 +2,7 @@
 
 ## *Our team*
 - [Pavlo Zinchenko](https://github.com/PaulSNDX)
-- Daria Katsai
-
-## *RUN PROJECT*
-1) Download the project;
-2) Open a project in IDE (for instance, CS50 IDE);
-3) Move to the project directory in the terminal (cd command);
-4) Type and run the command "flask run";
-5) If you do not have installed, try pip install "name" and repeat the previous step;
+- [Daria Katsai](https://github.com/DarunkaKa)
 
 ## *Description*
 First of all, you have to register. Provide a unique username and a password.
@@ -29,12 +22,10 @@ Passwords don't match - confirmation password do not the same;
 Incorrect credentials - maybe the user is not existing or the username/password is wrong;
 There is no data. Nothing to save - you have to input data before press save.
 
-
-
 ### *Available sortes*
-By alphabet order
-By reversed alphabet order
-By creation time
+* By alphabet order
+* By reversed alphabet order
+* By creation time
 
 ## *Calendar functional*
 To add a new date - provide the event name, month, and day and press add
@@ -44,30 +35,27 @@ For instance, if today is 01.11.2023 and the target date (is 10.11.2023) - 9 day
 If it is today - you will see the following message: It`s today!
 After that, you ought to delete an event. Otherwise, it will start counting again from 364 / 365 days left.
 
+## *Development tools*
+* The interpreted object-oriented programming language [Python](https://www.python.org/) was chosen for software development.
+* The language of tags - [HTML](https://css.in.ua/html/tags) and the language of page style - [CSS](https://www.w3schools.com/css/) were also chosen. These are the main web scripting languages for creating web pages and web applications.
+* [Flask](https://flask.palletsprojects.com/en/2.2.x/) was chosen to build the software, which is a small and lightweight web framework written in Python.
+* Also chosen was the [Jinja](https://jinja.palletsprojects.com/en/3.1.x/) templating engine, a fast, expressive, extensible templating engine.
+* [SQLite](https://www.sqlite.org/index.html) was chosen as the DBMS.
+
 ## *YouTube demonstration video*
 https://youtu.be/_ND1KgHJcxE
 
-## *FQL*
-### *Can anyone make a to-do list?*
-Of course, it is possible. However, you have to authorize it to your account.
+## *Documentation*
++ https://www.python.org/
++ https://css.in.ua/html/tags
++ https://www.w3schools.com/css/
++ https://flask.palletsprojects.com/en/2.2.x/
++ https://jinja.palletsprojects.com/en/3.1.x/
++ https://www.sqlite.org/index.html
 
-### *Is there a login page?*
-Certainly, your nickname and password.
+## About CS50x
+>https://cs50.harvard.edu/x/2022/
 
-### *Should I go to a login page after registration?*
-No, there is implemented automatic login after registration. In other words, redirect to the dashboard.
+An entry-level course taught by David J. Malan.
 
-### *Do you use a cookie to keep us logged in?*
-Yes, we keep your sessions on the server, but you can log out.
-
-### *How to open the calendar page?*
-There is a hamburger menu in the top-right corner.
-
-### *Can I restore deleted note?*
-Unfortunately, it is impossible.
-
-### *Can I create an empty note?*
-You have to provide at least any symbol.
-
-### *Is it possible to add different events with the same date?*
-Sure)
+CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML.
