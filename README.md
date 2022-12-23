@@ -53,7 +53,7 @@ https://youtu.be/_ND1KgHJcxE
 + https://jinja.palletsprojects.com/en/3.1.x/
 + https://www.sqlite.org/index.html
 
-## About CS50x
+## *About CS50x*
 >https://cs50.harvard.edu/x/2022/
 
 An entry-level course taught by David J. Malan.
